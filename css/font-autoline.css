@@ -2,11 +2,11 @@
   font-style: normal;
   font-weight: normal;
   font-family: 'AutoLineIcons';
-  src:  url('../fonts/AutoLineIcons.eot?3cwoku');
-  src:  url('../fonts/AutoLineIcons.eot?3cwoku#iefix') format('embedded-opentype'),
-    url('../fonts/AutoLineIcons.ttf?3cwoku') format('truetype'),
-    url('../fonts/AutoLineIcons.woff?3cwoku') format('woff'),
-    url('../fonts/AutoLineIcons.svg?3cwoku#AutoLineIcons') format('svg');
+  src:  url('../fonts/AutoLineIcons.eot?b8oero');
+  src:  url('../fonts/AutoLineIcons.eot?b8oero#iefix') format('embedded-opentype'),
+    url('../fonts/AutoLineIcons.ttf?b8oero') format('truetype'),
+    url('../fonts/AutoLineIcons.woff?b8oero') format('woff'),
+    url('../fonts/AutoLineIcons.svg?b8oero#AutoLineIcons') format('svg');
 }
 
 .al {
@@ -296,7 +296,7 @@
 .al-cat-hatch:before {
   content: "\e918";
 }
-.al-cat-mini-van:before {
+.al-cat-minivan:before {
   content: "\e919";
 }
 .al-cat-perua-sw:before {
