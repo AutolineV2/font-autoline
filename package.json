@@ -17,15 +17,15 @@
     "raw": "font-autoline@1.0.1",
     "name": "font-autoline",
     "escapedName": "font-autoline",
-    "rawSpec": "1.0.0",
+    "rawSpec": "1.0.1",
     "saveSpec": null,
-    "fetchSpec": "1.0.0"
+    "fetchSpec": "1.0.1"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/font-autoline/-/font-autoline-1.0.0.tgz",
-  "_spec": "1.0.0",
+  "_resolved": "https://registry.npmjs.org/font-autoline/-/font-autoline-1.0.1.tgz",
+  "_spec": "1.0.1",
   "_where": "C:\\_git\\w-site\\www\\autoline",
   "author": {
     "name": "Autoline V2",
@@ -73,5 +73,5 @@
     "url": "git+https://github.com/AutolineV2/font-autoline.git"
   },
   "style": "css/font-autoline.css",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
