@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "font-autoline@1.0.0",
+      "font-autoline@1.0.1",
       "C:\\_git\\w-site\\www\\autoline"
     ]
   ],
-  "_from": "font-autoline@1.0.0",
-  "_id": "font-autoline@1.0.0",
+  "_from": "font-autoline@1.0.1",
+  "_id": "font-autoline@1.0.1",
   "_inBundle": false,
   "_integrity": "sha1-j6jPBBGhoxr9B7BtKQK7n8gVoTM=",
   "_location": "/font-autoline",
@@ -14,7 +14,7 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "font-autoline@1.0.0",
+    "raw": "font-autoline@1.0.1",
     "name": "font-autoline",
     "escapedName": "font-autoline",
     "rawSpec": "1.0.0",
