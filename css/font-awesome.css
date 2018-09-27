@@ -1,0 +1,412 @@
+@font-face {
+  font-style: normal;
+  font-weight: normal;
+  font-family: 'AutoLineIcons';
+  src:  url('../fonts/AutoLineIcons.eot?3cwoku');
+  src:  url('../fonts/AutoLineIcons.eot?3cwoku#iefix') format('embedded-opentype'),
+    url('../fonts/AutoLineIcons.ttf?3cwoku') format('truetype'),
+    url('../fonts/AutoLineIcons.woff?3cwoku') format('woff'),
+    url('../fonts/AutoLineIcons.svg?3cwoku#AutoLineIcons') format('svg');
+}
+
+.al {
+  font-size: inherit;
+  text-rendering: auto;
+  display: inline-block;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font: normal normal normal 16px/1 AutoLineIcons;
+}
+
+[class*='al-color']:before {
+  content: "\e93f";
+}
+.al-color-1 {
+  color: blue !important;
+}
+.al-color-2 {
+  color: black !important;
+}
+.al-color-3 {
+  border-radius: 50%;
+  color: white !important;
+  border: 1px solid #c8c8c8;
+}
+.al-color-4 {
+  color: green !important;
+}
+.al-color-5 {
+  color: red !important;
+}
+.al-color-6 {
+  color: yellow !important;
+}
+.al-color-7 {
+  color: silver !important;
+}
+.al-color-8 {
+  color: gray !important;
+}
+.al-color-9 {
+  color: burlywood !important;
+}
+.al-color-10 {
+  color: darkred !important;
+}
+.al-color-11 {
+  color: purple !important;
+}
+.al-color-12 {
+  color: goldenrod !important;
+}
+.al-color-13 {
+  color: orangered !important;
+}
+.al-color-14 {
+  color: #795548 !important;
+}
+.al-color-15 {
+  color: palevioletred !important;
+}
+.al-color-16, .al-color-17 {
+  color: #E5E5E5 !important;
+}
+.al-flip-horizontal {
+  transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+}
+.al-flip-vertical {
+  transform: scale(1, -1);
+  -webkit-transform: scale(1, -1);
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+}
+
+
+/* ###########################  */
+/* JOGAR STYLE DAQUI PRA BAIXO  */
+/* ###########################  */
+.al-feirao-plate:before {
+  content: "\e96b";
+}
+.al-fipe:before {
+  content: "\e94a";
+}
+.al-share:before {
+  content: "\e905";
+}
+.al-info-circle:before {
+  content: "\e962";
+}
+.al-question-circle:before {
+  content: "\e963";
+}
+.al-toggle-off:before {
+  content: "\e95d";
+}
+.al-toggle-on:before {
+  content: "\e95e";
+}
+.al-eye:before {
+  content: "\e95f";
+}
+.al-tag:before {
+  content: "\e95c";
+}
+.al-sign-out:before {
+  content: "\e953";
+}
+.al-bell:before {
+  content: "\e954";
+}
+.al-bell-slash:before {
+  content: "\e955";
+}
+.al-filter:before {
+  content: "\e94d";
+}
+.al-sort:before {
+  content: "\e952";
+}
+.al-th:before {
+  content: "\e94f";
+}
+.al-th-card:before {
+  content: "\e950";
+}
+.al-th-list:before {
+  content: "\e951";
+}
+.al-stock:before {
+  content: "\e95b";
+}
+.al-plate:before {
+  content: "\e94c";
+}
+.al-gas-pump:before {
+  content: "\e943";
+}
+.al-gear-number:before {
+  content: "\e960";
+}
+.al-thermometer:before {
+  content: "\e968";
+}
+.al-injection:before {
+  content: "\e966";
+}
+.al-brake:before {
+  content: "\e965";
+}
+.al-cylinder:before {
+  content: "\e964";
+}
+.al-engine:before {
+  content: "\e942";
+}
+.al-car-battery:before {
+  content: "\e967";
+}
+.al-gear:before {
+  content: "\e945";
+}
+.al-km:before {
+  content: "\e946";
+}
+.al-doors:before {
+  content: "\e947";
+}
+.al-map-maker:before {
+  content: "\e940";
+}
+.al-proposal-received:before {
+  content: "\e958";
+}
+.al-home:before {
+  content: "\e94e";
+}
+.al-print:before {
+  content: "\e906";
+}
+.al-favorite:before {
+  content: "\e907";
+}
+.al-chart-line:before {
+  content: "\e959";
+}
+.al-adverts:before {
+  content: "\e908";
+}
+.al-phone:before {
+  content: "\e944";
+}
+.al-person:before {
+  content: "\e909";
+}
+.al-calculator:before {
+  content: "\e95a";
+}
+.al-calendar:before {
+  content: "\e94b";
+}
+.al-envelope:before {
+  content: "\e957";
+}
+.al-edit-announce:before {
+  content: "\e90a";
+}
+.al-simulate:before {
+  content: "\e90b";
+}
+.al-announce:before {
+  content: "\e90c";
+}
+.al-images:before {
+  content: "\e90d";
+}
+.al-proposal:before {
+  content: "\e90e";
+}
+.al-trash:before {
+  content: "\e90f";
+}
+.al-compare:before {
+  content: "\e910";
+}
+.al-search:before {
+  content: "\e904";
+}
+.al-usd-circle-dashed:before {
+  content: "\e956";
+}
+.al-steering:before {
+  content: "\e941";
+}
+.al-logo:before {
+  content: "\e93e";
+}
+.al-rubber:before {
+  content: "\e912";
+}
+.al-car-crash:before {
+  content: "\e93b";
+}
+.al-color:before {
+  content: "\e93f";
+}
+.al-used-moto:before {
+  content: "\e903";
+}
+.al-moto:before {
+  content: "\e901";
+}
+.al-new-moto:before {
+  content: "\e902";
+}
+.al-moto-bodywork:before {
+  content: "\e969";
+}
+.al-simulate-moto:before {
+  content: "\e949";
+}
+.al-car:before {
+  content: "\e900";
+}
+.al-simulate-car:before {
+  content: "\e948";
+}
+.al-new-car:before {
+  content: "\e913";
+}
+.al-used-car:before {
+  content: "\e914";
+}
+.al-car-bodywork:before {
+  content: "\e961";
+}
+.al-cat-conversivel:before {
+  content: "\e915";
+}
+.al-cat-cupe:before {
+  content: "\e916";
+}
+.al-cat-esportivo:before {
+  content: "\e917";
+}
+.al-cat-hatch:before {
+  content: "\e918";
+}
+.al-cat-mini-van:before {
+  content: "\e919";
+}
+.al-cat-perua-sw:before {
+  content: "\e91a";
+}
+.al-cat-picape:before {
+  content: "\e91b";
+}
+.al-cat-sedan:before {
+  content: "\e91c";
+}
+.al-cat-suv:before {
+  content: "\e91d";
+}
+.al-cat-van-utilitario:before {
+  content: "\e91e";
+}
+.al-cat-m-triciclo:before {
+  content: "\e96a";
+}
+.al-cat-m-custom:before {
+  content: "\e91f";
+}
+.al-cat-m-esportiva:before {
+  content: "\e920";
+}
+.al-cat-m-naked:before {
+  content: "\e921";
+}
+.al-cat-m-off-road:before {
+  content: "\e922";
+}
+.al-cat-m-quadriciclo:before {
+  content: "\e923";
+}
+.al-cat-m-scooter:before {
+  content: "\e924";
+}
+.al-cat-m-street:before {
+  content: "\e925";
+}
+.al-cat-m-supermotard:before {
+  content: "\e926";
+}
+.al-cat-m-trail:before {
+  content: "\e927";
+}
+.al-fiat:before {
+  content: "\e928";
+}
+.al-renault:before {
+  content: "\e929";
+}
+.al-bmw:before {
+  content: "\e92a";
+}
+.al-sundown-1:before {
+  content: "\e911";
+}
+.al-ducati:before {
+  content: "\e92b";
+}
+.al-harley:before {
+  content: "\e92c";
+}
+.al-kasinski:before {
+  content: "\e92d";
+}
+.al-chevrolet:before {
+  content: "\e92e";
+}
+.al-citroen:before {
+  content: "\e92f";
+}
+.al-ford:before {
+  content: "\e930";
+}
+.al-honda:before {
+  content: "\e931";
+}
+.al-hyundai:before {
+  content: "\e932";
+}
+.al-jeep:before {
+  content: "\e933";
+}
+.al-mitsubishi:before {
+  content: "\e934";
+}
+.al-peugeot:before {
+  content: "\e935";
+}
+.al-toyota:before {
+  content: "\e936";
+}
+.al-volkswagen:before {
+  content: "\e937";
+}
+.al-honda2:before {
+  content: "\e938";
+}
+.al-kawasaki:before {
+  content: "\e939";
+}
+.al-sundown:before {
+  content: "\e93a";
+}
+.al-suzuki:before {
+  content: "\e93c";
+}
+.al-yamaha:before {
+  content: "\e93d";
+}
