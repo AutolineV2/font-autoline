@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#2b2b2b"
+    },
+    "workbench.commandPalette.history": 10,
+    "window.title": "Font${separator}Autoline",
+    "terminal.integrated.cursorBlinking": true,
+}
