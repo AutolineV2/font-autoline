@@ -170,6 +170,9 @@
 .al-gear:before {
   content: "\e945";
 }
+.al-real-gear:before {
+  content: "\e932";
+}
 .al-km:before {
   content: "\e946";
 }
@@ -202,6 +205,9 @@
 }
 .al-person:before {
   content: "\e909";
+}
+.al-people:before {
+  content: "\e96c";
 }
 .al-calculator:before {
   content: "\e95a";
