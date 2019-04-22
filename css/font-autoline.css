@@ -82,10 +82,12 @@
   -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
 }
 
-
 /* ###########################  */
 /* JOGAR STYLE DAQUI PRA BAIXO  */
 /* ###########################  */
+.al-cat-mini-van:before {
+  content: "\e972";
+}
 .al-autoline-icone-v:before {
   content: "\e900";
 }
@@ -173,7 +175,7 @@
 .al-cat-hatch:before {
   content: "\e91c";
 }
-.al-cat-mini-van:before {
+.al-cat-minivan:before {
   content: "\e91d";
 }
 .al-cat-perua-sw:before {
@@ -293,7 +295,7 @@
 .al-map-maker:before {
   content: "\e944";
 }
-.al-steering1:before {
+.al-steering:before {
   content: "\e945";
 }
 .al-engine:before {
