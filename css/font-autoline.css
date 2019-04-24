@@ -19,7 +19,7 @@
 }
 
 [class*='al-color']:before {
-  content: "\e93f";
+  content: "\e943";
 }
 .al-color-1 {
   color: blue !important;
