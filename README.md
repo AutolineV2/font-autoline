@@ -1,4 +1,4 @@
-# [Font Autoline v1.0.6](http://autoline.com.br)
+# [Font Autoline v1.0.7](http://autoline.com.br)
 ### The iconic font and CSS framework
 
 ## Author

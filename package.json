@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "font-autoline@1.0.6",
+      "font-autoline@1.0.7",
       "C:\\_git\\w-site\\www\\autoline"
     ]
   ],
-  "_from": "font-autoline@1.0.6",
-  "_id": "font-autoline@1.0.6",
+  "_from": "font-autoline@1.0.7",
+  "_id": "font-autoline@1.0.7",
   "_inBundle": false,
   "_integrity": "sha1-j6jPBBGhoxr9B7BtKQK7n8gVoTM=",
   "_location": "/font-autoline",
@@ -14,18 +14,18 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "font-autoline@1.0.6",
+    "raw": "font-autoline@1.0.7",
     "name": "font-autoline",
     "escapedName": "font-autoline",
-    "rawSpec": "1.0.6",
+    "rawSpec": "1.0.7",
     "saveSpec": null,
-    "fetchSpec": "1.0.6"
+    "fetchSpec": "1.0.7"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/font-autoline/-/font-autoline-1.0.6.tgz",
-  "_spec": "1.0.6",
+  "_resolved": "https://registry.npmjs.org/font-autoline/-/font-autoline-1.0.7.tgz",
+  "_spec": "1.0.7",
   "_where": "C:\\_git\\w-site\\www\\autoline",
   "author": {
     "name": "Autoline V2",
@@ -50,6 +50,9 @@
     },
     {
       "name": "Ermerson Rafael"
+    },
+    {
+      "name": "Felipe Garcia Bartulihe"
     }
   ],
   "dependencies": {},
@@ -72,5 +75,5 @@
     "url": "git+https://github.com/AutolineV2/font-autoline.git"
   },
   "style": "css/font-autoline.css",
-  "version": "1.0.6"
+  "version": "1.0.7"
 }
